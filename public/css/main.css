@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    font-size: 62.5%; /*padrao do navegador é 16px > 62.5%=10px*/
+}
+body{
+    color:white;
+    height:100vh;           /*== ALTURA ==*/ /*width = LARGURA*/
+}
+body,input,button,textarea{
+    font: 400 1.8rem/1 'Nunito', sans-serif; /*font-weight  font-size/line-height  font*//*REM medida com base no pai*/
+}
+
