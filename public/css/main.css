@@ -9,6 +9,7 @@
 body{
     color:white;
     height:100vh;           /*== ALTURA ==*/ /*width = LARGURA*/
+    background: #ebf2f5;
 }
 body,input,button,textarea{
     font: 400 1.8rem/1 'Nunito', sans-serif; /*font-weight  font-size/line-height  font*//*REM medida com base no pai*/
