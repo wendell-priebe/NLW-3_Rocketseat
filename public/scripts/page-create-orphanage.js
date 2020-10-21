@@ -82,3 +82,13 @@ function toggleSelect(event){
     input.value = button.dataset.value
 
 }
+
+function validate(event) {
+
+    // validar se lat e lng estao preenchidos; ver se o campo de value esta vazio
+    const needsLatAndLng = false // fazer aq a validaçao com value para ver se tem campo vazio
+    if(needsLatAndLng){
+        event.preventDefault()
+        alert('Selecione um ponto no mapa!')
+    }
+}
