@@ -6,7 +6,7 @@
 
 <h2>Technologies:</h2>
 <ul>
-    <li>Handlebars</li>
+    <li>HTML/Handlebars</li>
     <li>CSS</li>
     <li>JavaScript</li>
     <li>NodeJS</li>
